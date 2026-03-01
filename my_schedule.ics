@@ -2,375 +2,369 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4915/assignments/63903
-DTSTART:20260225T185959Z
-SUMMARY:📝 Museum Visit Reflective Essay  (COM 204-S1)
-UID:d258ec51-9991-4a35-9d91-5b2a84c1610f@d258.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260216
-DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62661\n\n<p>Hello\, I'm running ten minutes behind schedule. Please be in class when I get there.&nbsp\;</p>\n<p>-R</p>...
-SUMMARY:📢 Running late (COM 204-S1)
-UID:c80e1f72-6776-4611-9eac-1548b241bf90@c80e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5071/assignments/61307
-DTSTART:20260206T185959Z
-SUMMARY:📝 second bi-weekly update (FP/SDP 302-F2)
-UID:9c92764e-3d69-4bfd-a3e2-dbd1de4c3417@9c92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5071/assignments/61308
-DTSTART:20260220T185959Z
-SUMMARY:📝 Final reflection (FP/SDP 302-F2)
-UID:e48af5a1-60db-4fc0-a415-9102fbc3b4a3@e48a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260216
-DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62653\n\n<p data-start="38" data-end="249">All students are requested to book office hours at least one day in advance and clearly mention their topic(s) of discussion. This will help ensure that each student ...
-SUMMARY:📢 Office Hours (CND 103L-T2)
-UID:fae14691-d0bd-420a-b946-33ecf5548527@fae1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260216
-DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62680\n\n<p>Hi folks\,</p>\n<p>Just a reminder that the class will be held at Tariq Rafi Hall.</p>\n<p>Regards\,<br>Aatir&nbsp\;</p>...
-SUMMARY:📢 Reminder - Tariq Rafi Hall (SDP 303-S1\,S2\,S3)
-UID:f69f8b05-d252-48f3-9da0-f6be59b19d5a@f69f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Originally Posted: 2026-02-19\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62843\n\n<p>Have uploaded details for the in class climate change graded assignment for next week</p>\n<p>If any of you have any questions\, need any clarity\, then contact me</p>...
-SUMMARY:📢 CLIMATE CHANGE ASSIGNMENT (SDP 303-S1\,S2\,S3)
-UID:1121a0ea-6ca2-408f-a32b-92a7920c119f@1121.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/4873/discussion_topics/63104\n\n<p>Hello Class\, Create an imaginary brand in your head eg. Pet Store\, Shopping Mall\, Coffee Shop etc. think of the audience you are targeting eg. kids\, teenagers\, adults\, all etc. Now create a logo (r...
-SUMMARY:📢 Home Work - Logos (CND 103L-T2)
-UID:d1befa92-cf6e-4875-a2e9-14701bef7006@d1be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/4907/discussion_topics/63045\n\n<p>Taking office hours online on teams today - from 1:00pm to 3:00pm.&nbsp\;</p>\n<p>In case you want to meet\, please message me there.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Ashar</p>...
-SUMMARY:📢 Office Hours Today (Update) - Ashar (SDP 302-L1)
-UID:9c6fd521-25fc-4715-a963-6f0efd5c84e0@9c6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62778\n\n<p><span style="font-size: 14pt\;">Hello students\,</span></p>\n<p><span style="font-size: 14pt\;">Quiz 01 will be held during our Tuesday Feb 24 lecture. It will cover Lectures 1–4 (the lecture notes/sli...
-SUMMARY:📢 Preparing for Quiz 01 (SDP 302-S2)
-UID:a81d85d9-fd0a-4b95-ad8a-9e74938ad4fc@a81d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-DESCRIPTION:Originally Posted: 2026-02-05\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62303\n\n<p>Hello there.&nbsp\;</p>\n<p><span style="color: #2b7abc\;">Have uploaded/published the following:</span></p>\n<p>1. The <strong>Sam Abell PDF </strong>mentioned in class\, <a class="instructure_file_lin...
-SUMMARY:📢 Photography Assignment Resources/Update  (CND 103-D2)
-UID:da4c5462-bdb1-4884-b9ac-21970b5e9b85@da4c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/4873/discussion_topics/63105\n\n<p>I strongly advise students to show me their assignments before posting. My office hours in Ramzan will be in the same Design Studio on Wed 3:30pm - 4:30pm and on Monday 8:00am - 9:00am.&nbsp\;<br>Wi...
-SUMMARY:📢 Ramzan Office Hours (CND 103L-T2)
-UID:3c3b49e0-a883-4c45-8278-daa75eac7908@3c3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260129
-DESCRIPTION:Originally Posted: 2026-01-29\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62067\n\n<p><span style="color: #cf4a00\;">Execute this anytime between now and 2:40 p.m. It requires about 10 minutes. </span></p>\n<p><span style="font-size: 10pt\; color: #cf4a00\;"><strong>Attendance will be a...
-SUMMARY:📢 Exercise (To Do Before Attendance Today)  (CND 103-D2)
-UID:0df45e43-b1d0-40f5-aba9-7e29062709d9@0df4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260212
-DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62551\n\n<p><span style="color: #03893d\;"><strong>Imagine you are the God/Goddess of Design - and confronted with hapless humans seeking to be visual artists and designers.&nbsp\;</strong></span></p>\n<p><span s...
-SUMMARY:📢 Warm-up Activity (Principles of Design)  (CND 103-D2)
-UID:3af07c21-044c-4103-94ea-900f20cacfec@3af0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260203
-DESCRIPTION:Originally Posted: 2026-02-03\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62242\n\n<p><span>Attendance will be at<strong> 2:45</strong>. Till then:</span></p>\n<p><span style="color: #b34000\;">Please walk around\, <strong>observe</strong>\, and <strong>list down</strong> (in writing) a...
-SUMMARY:📢 Today's Warm-up Activity  (CND 103-D2)
-UID:021d22f2-0b21-4c50-a28c-d82c97c16ee7@021d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/63885
-DTSTART:20260222T185900Z
-SUMMARY:📝 Reflections on Water Policy (SDP 303-S1\,S2\,S3)
-UID:a1f293b2-0efd-4b10-bfb8-7d3e14f88dcd@a1f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260214
-DESCRIPTION:Originally Posted: 2026-02-14\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62613\n\n<p>Hi folks\,</p>\n<p>This is to remind you all that we will be meeting in Tariq Rafi Hall from Monday onwards for the lectures.</p>\n<p>Regards\,</p>\n<p>Aatir</p>...
-SUMMARY:📢 Room Update - Tariq Rafi (SDP 303-S1\,S2\,S3)
-UID:639aed4f-23c0-45b6-a499-497b96159eec@639a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/62630
-DTSTART:20260130T070000Z
-SUMMARY:📝 Composition Guidelines (Henry Carroll) (CND 103-D2)
-UID:5ff82a78-ca79-4ea0-9c2d-d64a2e06b5c4@5ff8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260218
-DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62800\n\n<p>Recreate this image using Blend tool</p>...
-SUMMARY:📢 Blend Tool (CND 103L-T2)
-UID:c11e7097-23b9-4e50-b712-efacfae27450@c11e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Originally Posted: 2026-02-13\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62611\n\n<p>Hello everyone\,&nbsp\;<br><br></p>\n<p>Please read pages 43-60 of&nbsp\;<em>Indian Aesthetics and the Philosophy of Art&nbsp\;</em>(the chapter titled “Rasa Aesthetics Goes Global: Relevance and Legiti...
-SUMMARY:📢 Reading for Monday + final reminder for field visit  (COM 204-S1)
-UID:3bd12b1c-cc28-4791-ba18-e9d909945c10@3bd1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/4907/discussion_topics/63011\n\n<p><span style="color: #000000\;">Dear All\,&nbsp\;</span></p>\n<p><span style="color: #000000\;">Its a reminder that you have your first assessment tomorrow (Feb 24) during the lecture time. Make sure you...
-SUMMARY:📢 Reminder: Assessment Tomorrow - Feb 24 (SDP 302-L1)
-UID:a1bf3bb2-0de5-481a-a463-e6f6bb14da91@a1bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62740\n\n<p data-start="0" data-end="16">Dear Students\,</p>\n<p data-start="18" data-end="192">I have increased the number of attempts for the assignment. Please note that I will not be accepting submissions vi...
-SUMMARY:📢 Assignment Submission Update! (CND 103L-T2)
-UID:aebafc2e-5f06-4f25-92c6-02797d69d1ac@aeba.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260218
 DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/5016/discussion_topics/62769\n\n<p>Dear students\, I couldnot come today due to some emergency. Today's class is cancelled. Make up class will be conducted in few days.</p>...
 SUMMARY:📢 Todays class cancelled. (LANG 201-S1)
-UID:e7a874de-57f1-42cd-9703-012a917b1c07@e7a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-DESCRIPTION:Originally Posted: 2026-02-05\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62318\n\n<p>Dear DA Section 2 Students\,</p>\n<p>In week 3\, our focus was mainly on <strong>hypothesis testing</strong>:</p>\n<ul>\n<li>We reviewed the difference between <strong>point estimation and interval esti...
-SUMMARY:📢 Quick Review of Week 3 (SDP 302-S2)
-UID:d4dc36b4-9a0e-4533-b166-0f2503d1f897@d4dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/63033
-DTSTART:20260203T185959Z
-SUMMARY:📝 Healing tool and Editing Image (CND 103L-T2)
-UID:2013eb0f-a00e-4f30-9ffc-7954305eab54@2013.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62271\n\n<p>So I have just been informed that you need a guardian signature even if you're over 18. No idea why that's the case but oh well. Please get the signatures and leave the forms on my desk by Friday n...
-SUMMARY:📢 GUYS! GUARDIAN SIGNATURES (COM 204-S1)
-UID:464e2eac-3aa8-452b-8eff-dad6c8388c09@464e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Originally Posted: 2026-02-19\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62865\n\n<p><span style="font-size: 14pt\;">I have been saying on and off in the lectures and seminars that good data drives good policy!</span></p>\n<p><span style="font-size: 14pt\;">Coming Monday\, I will be wa...
-SUMMARY:📢 AGENDA - WEEK 7 - CLIMATE CHANGE (SDP 303-S1\,S2\,S3)
-UID:cef701bc-6904-4919-8132-2cecaaf40206@cef7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/61661
-DTSTART:20260227T105000Z
-SUMMARY:📝 Understanding Climate Change Vulnerability - Karachi (SDP 303-S1\,S2\,S3)
-UID:ac70df02-776b-484a-b31d-82ada38e7c67@ac70.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260206
-DESCRIPTION:Originally Posted: 2026-02-06\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62330\n\n<p>Hello everyone\,&nbsp\;<br><br>You have till 1:30 PM to drop your consent forms in my office. After that\, you will have to give them to me directly on Saturday. Do NOT leave them in my office after 1...
-SUMMARY:📢 Consent forms  (COM 204-S1)
-UID:0aa9342b-cad1-48f0-88a5-392f6ecb1550@0aa9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/63517
-DTSTART:20260302T185959Z
-SUMMARY:📝 Photoshop Exercise: Movie Poster (CND 103L-T2)
-UID:d42450bb-737b-4b83-84b3-d5c5f44a7769@d424.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260218
-DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62772\n\n<p>Break down the following artworks using the Rasa model (use the slides for guidance):&nbsp\;</p>\n<p>Group 1: "Ivan the Terrible and his Son Ivan" by Ilya Repin (<a href="https://en.wikipedia.org/wik...
-SUMMARY:📢 Group activity  (COM 204-S1)
-UID:5ff92d80-7166-409c-a364-3acb3dc39ab3@5ff9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/63809
-DTSTART:20260302T185959Z
-SUMMARY:📝 Illustrator Exercise: Postcard Design (CND 103L-T2)
-UID:6c9a336b-7489-4924-87b0-434275e59134@6c9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260211
-DESCRIPTION:Originally Posted: 2026-02-11\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62482\n\n<p>Please come prepared for class for the last reading on water policy. To ease the task\, please note the following:</p>\n<p>1. Critically analyze pages 1-10 and pages 32-40</p>\n<p>2. Skim pages 11-19&...
-SUMMARY:📢 Water Policy (SDP 303-S1\,S2\,S3)
-UID:c80b5488-201e-4fba-9964-3b64157d7002@c80b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260221
-DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62231\n\n<p>Hello class\,</p>\n<p>Please read the guidelines for Quiz 02 carefully:</p>\n<p style="text-align: center\;"><a title="02-Quiz" href="https://hulms.instructure.com/courses/5123/assignments/63312" data-...
-SUMMARY:📢 Some Guidelines for Quiz 02 (SDP 302-S2)
-UID:9042eb4f-bdb3-4a95-b176-734df1e4fd19@9042.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-DESCRIPTION:Originally Posted: 2026-02-22\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62960\n\n<p>Hi there\,&nbsp\;</p>\n<p>I'm better now. However\, I'm concerned that you did not receive enough support regarding co<span style="font-family: inherit\; font-size: 1rem\;">llaging and the principles of ...
-SUMMARY:📢 Module 1\, Part B - Extended Deadline  (CND 103-D2)
-UID:37eaa483-31d8-4152-a404-95482465abe4@37ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Originally Posted: 2026-02-20\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62910\n\n<ol style="list-style-type: decimal\;">\n<li>Hey everyone. I'm coming down with symptoms of the 'flu so\, preemptively\, am <strong>cancelling tomorrow's session</strong>.</li>\n<li>Later\, I will upload a ...
-SUMMARY:📢 Tomorrow's Critique Cancelled (CND 103-D2)
-UID:8f1a373f-43c1-4d29-8230-452055587615@8f1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/63406
-DTSTART:20260302T185959Z
-SUMMARY:📝 Through Each Lens (Part B) (CND 103-D2)
-UID:261680ce-7942-4ae7-a22d-ab82bf954718@2616.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62566\n\n<p><span style="font-size: 14pt\; color: #cf4a00\;"><strong>Analysis: Elements and Principles of Design</strong></span></p>\n<p>&nbsp\;</p>\n<p><span style="color: #9242b4\;">The<strong> Horticultural Socie...
-SUMMARY:📢 Extra Credit Opportunity (up to 3%) (CND 103-D2)
-UID:7d48b832-363a-4acc-b541-1f0a0cd9b70c@7d48.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260625
-DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62232\n\n<p>Dear students\,</p>\n<p>We are going to have a busy <strong>week 4</strong>:</p>\n<ul style="list-style-type: disc\;">\n<li>Quiz 2 covering Chs. 3 and 4 on Tuesday\, June 25.</li>\n<li>Quiz 3 covering Ch....
-SUMMARY:📢 Planning for week 4 + On "df" (SDP 302-S2)
-UID:63b3a081-01d0-4525-b540-81f9aaaf5ab8@63b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62754\n\n<p>Hello everyone\,&nbsp\;<br><br>Given the way the sessions have been going so far\, I would like to set some ground rules going forward. This is especially important since\, with the Ramazan schedule\, o...
-SUMMARY:📢 Attendance policy  (COM 204-S1)
-UID:94abf489-fae3-4965-8005-65293b76f9a1@94ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62261\n\n<p>Hello everyone\,&nbsp\;<br><br>We will be visiting the State Bank Museum this Saturday\, the 7th of February\, for a class field trip. You are all required to be on campus by 11 AM so that we can colle...
-SUMMARY:📢 FIELD TRIP!!!! (COM 204-S1)
-UID:e431cf95-5b2d-4aae-9fcb-86b0c3e3a76e@e431.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/4861/discussion_topics/63033\n\n<p>Hello. Please carry your sketchbook if you're able to.</p>\n<p>(Plus any scraps of coloured paper you might have.)&nbsp\;</p>...
-SUMMARY:📢 Bring Sketchbook Today  (CND 103-D2)
-UID:f5604b56-77b9-44ef-9a92-d33606ccf64b@f560.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Originally Posted: 2026-02-20\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62915\n\n<p>Hi All</p>\n<p><span style="font-size: 14pt\;">Just a few things about next weeks assessment that I wanted to share. Go through my Week 6 Class Lecture thoroughly\, particularly if you want to score w...
-SUMMARY:📢 NEXT WEEKS ASSESSMENT (SDP 303-S1\,S2\,S3)
-UID:0a577ea5-74b6-490e-bfd7-5766ae92c882@0a57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260206
-DESCRIPTION:Originally Posted: 2026-02-06\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62355\n\n<p>Hello everyone\,&nbsp\;</p>\n<p>Please be on campus tomorrow by 11 AM and gather in the reception area. We'll leave at 11:30 AM sharp. For those of you who haven't submitted the form yet and want to b...
-SUMMARY:📢 Game plan (COM 204-S1)
-UID:9e898cd6-d4c4-4d0f-8ba6-e71a4c03b035@9e89.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260129
-DESCRIPTION:Originally Posted: 2026-01-29\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62097\n\n<p>Hello everyone\,&nbsp\;<br><br>The registrar has scheduled our make-up session on Monday from 1:00 - 2:15 PM. We will thus be having a double session on that day (with the make-up following our regul...
-SUMMARY:📢 Make-up class + Reading for Monday (COM 204-S1)
-UID:465b342b-8b93-4507-b176-c29390553a56@465b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/63404
-DTSTART:20260216T185959Z
-SUMMARY:📝 Through Each Lens (Part A) (CND 103-D2)
-UID:74f49430-0d6f-459c-8c58-5516bd8fbbee@74f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/63522
-DTSTART:20260216T185959Z
-SUMMARY:📝 ARTIFACTS (MEDIA) - Photoshop assignment Part A (CND 103L-T2)
-UID:e637db56-adc1-4f23-a261-6ad7259ea2d4@e637.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/64018
-DTSTART:20260303T185959Z
-SUMMARY:📝 Collage - Photoshop Assignment part B (CND 103L-T2)
-UID:129bca10-9f97-428b-8dd5-a20e433ab259@129b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260218
-DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62794\n\n<p>Create this logo using shape builder tool</p>...
-SUMMARY:📢 Shape Builder Tool (CND 103L-T2)
-UID:2fd32fb4-4dfa-429b-bcf2-92714a4cbc24@2fd3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Originally Posted: 2026-02-19\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62872\n\n<p>Dear students\, the collage assignment has been posted on Canvas. Please make sure to submit on time. Good luck!</p>...
-SUMMARY:📢 Collage Assignment (CND 103L-T2)
-UID:d04f2662-fc82-45a6-a5cc-e7ff09a5d9a9@d04f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260130
-DESCRIPTION:Originally Posted: 2026-01-30\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62139\n\n<p>So\, there was a request from some students that I share my publications where have looked into aspects of policy and projects/programs evaluation. Some of which I discussed in my lecture</p>\n<p>So ...
-SUMMARY:📢 SHARING SOME PUBLISHED WORKS (SDP 303-S1\,S2\,S3)
-UID:d0769539-2090-436b-bd1f-40c1b081a34a@d076.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62235\n\n<p>Hello DA Section 2\, Spring 2026 Students\,</p>\n<p>I hope you all are well.</p>\n<ul style="list-style-type: disc\;">\n<li><strong>A few key terms we discussed during week 1</strong>:</li>\n</ul>\n<ol sty...
-SUMMARY:📢 Quick Review of Week 1 (SDP 302-S2)
-UID:c7997219-52ae-4e62-af11-e84588ca3de5@c799.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/64297
-DTSTART:20260228T185959Z
-SUMMARY:📝 EXTRA CREDIT - Analysis: Elements and Principles of Design (CND 103-D2)
-UID:036b1950-3932-486a-a208-a33393821587@036b.org
+UID:b50f1852-2986-4362-9c97-6fc4bef032cd@b50f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260223
 DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/4907/discussion_topics/63019\n\n<p>Dear Students\,</p>\n<p>Further to Prof. Ashar’s timely and important announcement\, please make sure you are able to:</p>\n<ul>\n<li>Interpret regression coefficients (sign\, magnitude\, and meaning).</l...
 SUMMARY:📢 Further to Prof. Ashar’s Timely and Important Announcement (SDP 302-L1)
-UID:9ce651d8-29e4-423a-a34f-d9f88672e7e8@9ce6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260206
-DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62234\n\n<p>Hello students\,</p>\n<ul style="list-style-type: disc\;">\n<li><strong>Review of Week 2 Session</strong></li>\n</ul>\n<ol style="list-style-type: decimal\;">\n<li>We talked about two important concepts: <...
-SUMMARY:📢 Quick Review of Week 2 (SDP 302-S2)
-UID:4519c374-51ad-499c-8f1e-7f6b3746fe1f@4519.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/63322
-DTSTART:20260208T185959Z
-SUMMARY:📝 HU Honor Code (SDP 302-S2)
-UID:9d0edfa6-ed91-4556-bb07-cae53ed4063e@9d0e.org
+UID:3480ad03-05af-42af-a5a1-947be6354c77@3480.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 DESCRIPTION:Originally Posted: 2026-02-11\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62507\n\n<p>Import this in Illustrator</p>...
 SUMMARY:📢 Robot - Shapes and Pentool (CND 103L-T2)
-UID:1280b3f4-55a5-41bc-9262-16236d164892@1280.org
+UID:335f8fae-7194-47a2-b4cf-adff6301d273@335f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260216
-DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62697\n\n<p><span style="color: #03893d\;">Please upload the presentation before midnight</span></p>\n<ol style="list-style-type: decimal\;">\n<li><span style="color: #9242b4\;">Remember to <strong>write&nbsp\;the t...
-SUMMARY:📢 Reminder: Submission for Module One (Part A) (CND 103-D2)
-UID:76f323be-bf4f-42b5-a893-f99fefe77d24@76f3.org
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/4873/discussion_topics/63104\n\n<p>Hello Class\, Create an imaginary brand in your head eg. Pet Store\, Shopping Mall\, Coffee Shop etc. think of the audience you are targeting eg. kids\, teenagers\, adults\, all etc. Now create a logo (r...
+SUMMARY:📢 Home Work - Logos (CND 103L-T2)
+UID:fadd352f-5df0-4647-bb0e-9c39298987cb@fadd.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260129
-DESCRIPTION:Originally Posted: 2026-02-10\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62450\n\n<p>Got delayed in a faculty workshop. Attendance will be around 2<span>:45</span>.</p>\n<p><span style="color: #cf4a00\;">You may want to work on something that will be reviewed after the break:</span><...
-SUMMARY:📢 Activity One (Before Attendance)  (CND 103-D2)
-UID:3ee258e5-31e3-4613-8a36-4b5375b64b37@3ee2.org
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Originally Posted: 2026-02-20\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62910\n\n<ol style="list-style-type: decimal\;">\n<li>Hey everyone. I'm coming down with symptoms of the 'flu so\, preemptively\, am <strong>cancelling tomorrow's session</strong>.</li>\n<li>Later\, I will upload a ...
+SUMMARY:📢 Tomorrow's Critique Cancelled (CND 103-D2)
+UID:99c00f6e-77da-4cb5-b1cd-36343c2c9084@99c0.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260212
-DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62559\n\n<p>Hi Class. On coming Monday we will have an interactive discussion on the topic of Climate Change. The phenomenon\, triggers and causes\, scenarios and implications. Also discussed will be efforts to ...
-SUMMARY:📢 AGENDA - WEEK 6 - CLIMATE CHANGE (SDP 303-S1\,S2\,S3)
-UID:2f7b967b-e222-4f55-9e67-79427b42222c@2f7b.org
+DESCRIPTION:https://hulms.instructure.com/courses/5071/assignments/61308
+DTSTART:20260220T185959Z
+SUMMARY:📝 Final reflection (FP/SDP 302-F2)
+UID:f88aabad-1b3c-44ba-8f2b-d1fb21551cb8@f88a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260207
-DESCRIPTION:Originally Posted: 2026-02-07\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62363\n\n<p>We're heading out of campus in five minutes. Show up or forever hold your silence.&nbsp\;</p>\n<p>-R</p>...
-SUMMARY:📢 Last call  (COM 204-S1)
-UID:9d3fd1f5-86e0-401f-ba6d-92cbcc798973@9d3f.org
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Originally Posted: 2026-02-14\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62613\n\n<p>Hi folks\,</p>\n<p>This is to remind you all that we will be meeting in Tariq Rafi Hall from Monday onwards for the lectures.</p>\n<p>Regards\,</p>\n<p>Aatir</p>...
+SUMMARY:📢 Room Update - Tariq Rafi (SDP 303-S1\,S2\,S3)
+UID:696cdf24-313e-4864-92ab-9ee7442ce9f7@696c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62754\n\n<p>Hello everyone\,&nbsp\;<br><br>Given the way the sessions have been going so far\, I would like to set some ground rules going forward. This is especially important since\, with the Ramazan schedule\, o...
+SUMMARY:📢 Attendance policy  (COM 204-S1)
+UID:e67a9608-d81c-4344-a863-fbcc8b1903d6@e67a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/63522
+DTSTART:20260216T185959Z
+SUMMARY:📝 ARTIFACTS (MEDIA) - Photoshop assignment Part A (CND 103L-T2)
+UID:2eb70a83-2287-41ea-a6e3-51e9237a5e44@2eb7.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 DESCRIPTION:Originally Posted: 2026-02-05\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62319\n\n<p>Dear DA Section 2 Students\,</p>\n<p>In week 3\, our focus was mainly on <strong>hypothesis testing</strong>:</p>\n<ul>\n<li>We reviewed the difference between <strong>point estimation and interval esti...
 SUMMARY:📢 Quick Review of Week 3 (SDP 302-S2)
-UID:3aa97a1e-9c99-4133-a725-c49164571430@3aa9.org
+UID:94509eac-86a1-43a8-8bd3-34f86abc9f40@9450.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62231\n\n<p>Hello class\,</p>\n<p>Please read the guidelines for Quiz 02 carefully:</p>\n<p style="text-align: center\;"><a title="02-Quiz" href="https://hulms.instructure.com/courses/5123/assignments/63312" data-...
+SUMMARY:📢 Some Guidelines for Quiz 02 (SDP 302-S2)
+UID:7f4d6cf0-7aee-492e-a6a5-b03d041688b9@7f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62661\n\n<p>Hello\, I'm running ten minutes behind schedule. Please be in class when I get there.&nbsp\;</p>\n<p>-R</p>...
+SUMMARY:📢 Running late (COM 204-S1)
+UID:ef7380f4-788a-4d06-8b09-90e591a8c51d@ef73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62800\n\n<p>Recreate this image using Blend tool</p>...
+SUMMARY:📢 Blend Tool (CND 103L-T2)
+UID:2a529340-c0bb-4e64-9ccf-af6c0f2b8c91@2a52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/62630
+DTSTART:20260130T070000Z
+SUMMARY:📝 Composition Guidelines (Henry Carroll) (CND 103-D2)
+UID:a6b0efcc-b239-4bee-95e5-998f9a485558@a6b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Originally Posted: 2026-02-22\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62960\n\n<p>Hi there\,&nbsp\;</p>\n<p>I'm better now. However\, I'm concerned that you did not receive enough support regarding co<span style="font-family: inherit\; font-size: 1rem\;">llaging and the principles of ...
+SUMMARY:📢 Module 1\, Part B - Extended Deadline  (CND 103-D2)
+UID:7e2e3d4b-fae0-4842-9da5-c367f90cc843@7e2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62653\n\n<p data-start="38" data-end="249">All students are requested to book office hours at least one day in advance and clearly mention their topic(s) of discussion. This will help ensure that each student ...
+SUMMARY:📢 Office Hours (CND 103L-T2)
+UID:bd6d2830-20da-4097-b6c9-60f9e41d9553@bd6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62234\n\n<p>Hello students\,</p>\n<ul style="list-style-type: disc\;">\n<li><strong>Review of Week 2 Session</strong></li>\n</ul>\n<ol style="list-style-type: decimal\;">\n<li>We talked about two important concepts: <...
+SUMMARY:📢 Quick Review of Week 2 (SDP 302-S2)
+UID:d9db857b-5d11-4afc-b56a-f8f2fab2a2bf@d9db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/4861/discussion_topics/63033\n\n<p>Hello. Please carry your sketchbook if you're able to.</p>\n<p>(Plus any scraps of coloured paper you might have.)&nbsp\;</p>...
+SUMMARY:📢 Bring Sketchbook Today  (CND 103-D2)
+UID:d8bee608-6595-4294-a9ba-bae09926edcc@d8be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62680\n\n<p>Hi folks\,</p>\n<p>Just a reminder that the class will be held at Tariq Rafi Hall.</p>\n<p>Regards\,<br>Aatir&nbsp\;</p>...
+SUMMARY:📢 Reminder - Tariq Rafi Hall (SDP 303-S1\,S2\,S3)
+UID:9041c0a3-6e6e-4dbf-b208-9879c33be700@9041.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Originally Posted: 2026-01-30\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62139\n\n<p>So\, there was a request from some students that I share my publications where have looked into aspects of policy and projects/programs evaluation. Some of which I discussed in my lecture</p>\n<p>So ...
+SUMMARY:📢 SHARING SOME PUBLISHED WORKS (SDP 303-S1\,S2\,S3)
+UID:0ffbc4fe-1b12-4328-b96f-2e05fdfa6ed7@0ffb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/63406
+DTSTART:20260302T185959Z
+SUMMARY:📝 Through Each Lens (Part B) (CND 103-D2)
+UID:384312f6-bec7-4ba5-8f87-cfc3e327b114@3843.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/4907/discussion_topics/63045\n\n<p>Taking office hours online on teams today - from 1:00pm to 3:00pm.&nbsp\;</p>\n<p>In case you want to meet\, please message me there.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Ashar</p>...
+SUMMARY:📢 Office Hours Today (Update) - Ashar (SDP 302-L1)
+UID:4beca7e7-1049-474b-98b6-194ec6831c63@4bec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/4907/discussion_topics/63011\n\n<p><span style="color: #000000\;">Dear All\,&nbsp\;</span></p>\n<p><span style="color: #000000\;">Its a reminder that you have your first assessment tomorrow (Feb 24) during the lecture time. Make sure you...
+SUMMARY:📢 Reminder: Assessment Tomorrow - Feb 24 (SDP 302-L1)
+UID:335bcd1d-f226-42cb-a825-0021c85b9b37@335b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62551\n\n<p><span style="color: #03893d\;"><strong>Imagine you are the God/Goddess of Design - and confronted with hapless humans seeking to be visual artists and designers.&nbsp\;</strong></span></p>\n<p><span s...
+SUMMARY:📢 Warm-up Activity (Principles of Design)  (CND 103-D2)
+UID:7bd76818-7e69-440d-bd9b-d48e61f66a85@7bd7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62559\n\n<p>Hi Class. On coming Monday we will have an interactive discussion on the topic of Climate Change. The phenomenon\, triggers and causes\, scenarios and implications. Also discussed will be efforts to ...
+SUMMARY:📢 AGENDA - WEEK 6 - CLIMATE CHANGE (SDP 303-S1\,S2\,S3)
+UID:e0cc5245-be49-4dfb-b1b8-a9c05b2624a7@e0cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62772\n\n<p>Break down the following artworks using the Rasa model (use the slides for guidance):&nbsp\;</p>\n<p>Group 1: "Ivan the Terrible and his Son Ivan" by Ilya Repin (<a href="https://en.wikipedia.org/wik...
+SUMMARY:📢 Group activity  (COM 204-S1)
+UID:9137ab3a-5b2a-4ab3-b19f-d46848023cb0@9137.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Originally Posted: 2026-02-20\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62915\n\n<p>Hi All</p>\n<p><span style="font-size: 14pt\;">Just a few things about next weeks assessment that I wanted to share. Go through my Week 6 Class Lecture thoroughly\, particularly if you want to score w...
+SUMMARY:📢 NEXT WEEKS ASSESSMENT (SDP 303-S1\,S2\,S3)
+UID:8294f50a-bee3-4656-8519-aaaf2cfa5f72@8294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/63322
+DTSTART:20260208T185959Z
+SUMMARY:📝 HU Honor Code (SDP 302-S2)
+UID:3d44f031-4e8f-4a8e-a68c-78b0c17745d6@3d44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/64018
+DTSTART:20260303T185959Z
+SUMMARY:📝 Collage - Photoshop Assignment part B (CND 103L-T2)
+UID:9cc29c78-d869-4dc9-b81a-d6ab643d1a94@9cc2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+DESCRIPTION:Originally Posted: 2026-02-28\nhttps://hulms.instructure.com/courses/4861/discussion_topics/63220\n\n<p><span style="background-color: #fbeeb8\;">Here is the <a class="inline_disabled" style="background-color: #fbeeb8\;" href="https://docs.google.com/spreadsheets/d/1ASyFQGdxTHBig3F8uamMMXS6hmdSDvqNmvUM...
+SUMMARY:📢 Online Critique Sign-up Sheet (CND 103-D2)
+UID:318e226d-0ef8-4ba2-89e8-759f6a8e2f6a@318e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5071/assignments/61307
+DTSTART:20260206T185959Z
+SUMMARY:📝 second bi-weekly update (FP/SDP 302-F2)
+UID:d6951295-2dd1-432f-ab2a-db00224c2c1e@d695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/63885
+DTSTART:20260222T185900Z
+SUMMARY:📝 Reflections on Water Policy (SDP 303-S1\,S2\,S3)
+UID:b92efbc5-2f20-413c-8208-26049aa572a6@b92e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62235\n\n<p>Hello DA Section 2\, Spring 2026 Students\,</p>\n<p>I hope you all are well.</p>\n<ul style="list-style-type: disc\;">\n<li><strong>A few key terms we discussed during week 1</strong>:</li>\n</ul>\n<ol sty...
+SUMMARY:📢 Quick Review of Week 1 (SDP 302-S2)
+UID:dd20aa29-d95e-4f4e-bbb6-d29e5ae3fda0@dd20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4915/assignments/63903
+DTSTART:20260225T185959Z
+SUMMARY:📝 Museum Visit Reflective Essay  (COM 204-S1)
+UID:33c8c5a1-590f-4ff3-8480-6da16dab69a7@33c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/64297
+DTSTART:20260228T185959Z
+SUMMARY:📝 EXTRA CREDIT - Analysis: Elements and Principles of Design (CND 103-D2)
+UID:7dc08dd3-d693-46ee-91e6-67ba0858057d@7dc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/63517
+DTSTART:20260302T185959Z
+SUMMARY:📝 Photoshop Exercise: Movie Poster (CND 103L-T2)
+UID:7c05b635-96dc-4a76-971e-aa570ee5fd56@7c05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Originally Posted: 2026-02-19\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62872\n\n<p>Dear students\, the collage assignment has been posted on Canvas. Please make sure to submit on time. Good luck!</p>...
+SUMMARY:📢 Collage Assignment (CND 103L-T2)
+UID:4b8d26f0-21c4-4a62-8600-7d0c1031d623@4b8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Originally Posted: 2026-02-05\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62318\n\n<p>Dear DA Section 2 Students\,</p>\n<p>In week 3\, our focus was mainly on <strong>hypothesis testing</strong>:</p>\n<ul>\n<li>We reviewed the difference between <strong>point estimation and interval esti...
+SUMMARY:📢 Quick Review of Week 3 (SDP 302-S2)
+UID:8c317e17-1a68-4779-b034-ff8de82891fe@8c31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Originally Posted: 2026-02-05\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62303\n\n<p>Hello there.&nbsp\;</p>\n<p><span style="color: #2b7abc\;">Have uploaded/published the following:</span></p>\n<p>1. The <strong>Sam Abell PDF </strong>mentioned in class\, <a class="instructure_file_lin...
+SUMMARY:📢 Photography Assignment Resources/Update  (CND 103-D2)
+UID:5dcfbcce-fbbc-43ee-a851-c69e77e0afea@5dcf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Originally Posted: 2026-02-03\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62242\n\n<p><span>Attendance will be at<strong> 2:45</strong>. Till then:</span></p>\n<p><span style="color: #b34000\;">Please walk around\, <strong>observe</strong>\, and <strong>list down</strong> (in writing) a...
+SUMMARY:📢 Today's Warm-up Activity  (CND 103-D2)
+UID:feeeaa25-cffb-4213-b81b-9cab2950c6c6@feee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62566\n\n<p><span style="font-size: 14pt\; color: #cf4a00\;"><strong>Analysis: Elements and Principles of Design</strong></span></p>\n<p>&nbsp\;</p>\n<p><span style="color: #9242b4\;">The<strong> Horticultural Socie...
+SUMMARY:📢 Extra Credit Opportunity (up to 3%) (CND 103-D2)
+UID:17431b70-81f0-4281-b8f8-15b723a5c6c6@1743.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Originally Posted: 2026-02-06\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62355\n\n<p>Hello everyone\,&nbsp\;</p>\n<p>Please be on campus tomorrow by 11 AM and gather in the reception area. We'll leave at 11:30 AM sharp. For those of you who haven't submitted the form yet and want to b...
+SUMMARY:📢 Game plan (COM 204-S1)
+UID:9243787d-3cca-4855-9cff-24608173c7ae@9243.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Originally Posted: 2026-02-19\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62865\n\n<p><span style="font-size: 14pt\;">I have been saying on and off in the lectures and seminars that good data drives good policy!</span></p>\n<p><span style="font-size: 14pt\;">Coming Monday\, I will be wa...
+SUMMARY:📢 AGENDA - WEEK 7 - CLIMATE CHANGE (SDP 303-S1\,S2\,S3)
+UID:4e98c492-bc93-4857-affc-e05b1059a513@4e98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Originally Posted: 2026-02-19\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62843\n\n<p>Have uploaded details for the in class climate change graded assignment for next week</p>\n<p>If any of you have any questions\, need any clarity\, then contact me</p>...
+SUMMARY:📢 CLIMATE CHANGE ASSIGNMENT (SDP 303-S1\,S2\,S3)
+UID:fcae1ad2-e5b8-425e-9ca8-88dcd14cb2a6@fcae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/4873/discussion_topics/63105\n\n<p>I strongly advise students to show me their assignments before posting. My office hours in Ramzan will be in the same Design Studio on Wed 3:30pm - 4:30pm and on Monday 8:00am - 9:00am.&nbsp\;<br>Wi...
+SUMMARY:📢 Ramzan Office Hours (CND 103L-T2)
+UID:60b43c41-13be-411c-9db7-d3a6a58854e1@60b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62740\n\n<p data-start="0" data-end="16">Dear Students\,</p>\n<p data-start="18" data-end="192">I have increased the number of attempts for the assignment. Please note that I will not be accepting submissions vi...
+SUMMARY:📢 Assignment Submission Update! (CND 103L-T2)
+UID:b9a939a3-5a8a-4bf2-b5dc-f84195cbe9dd@b9a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62778\n\n<p><span style="font-size: 14pt\;">Hello students\,</span></p>\n<p><span style="font-size: 14pt\;">Quiz 01 will be held during our Tuesday Feb 24 lecture. It will cover Lectures 1–4 (the lecture notes/sli...
+SUMMARY:📢 Preparing for Quiz 01 (SDP 302-S2)
+UID:e40be65c-aa9a-4458-bbb5-8d1845af9ae5@e40b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/5123/discussion_topics/62232\n\n<p>Dear students\,</p>\n<p>We are going to have a busy <strong>week 4</strong>:</p>\n<ul style="list-style-type: disc\;">\n<li>Quiz 2 covering Chs. 3 and 4 on Tuesday\, June 25.</li>\n<li>Quiz 3 covering Ch....
+SUMMARY:📢 Planning for week 4 + On "df" (SDP 302-S2)
+UID:94487abc-1213-473b-b34a-73a71bcc4d7f@9448.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Originally Posted: 2026-02-13\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62611\n\n<p>Hello everyone\,&nbsp\;<br><br></p>\n<p>Please read pages 43-60 of&nbsp\;<em>Indian Aesthetics and the Philosophy of Art&nbsp\;</em>(the chapter titled “Rasa Aesthetics Goes Global: Relevance and Legiti...
+SUMMARY:📢 Reading for Monday + final reminder for field visit  (COM 204-S1)
+UID:352f74c2-42c9-4e11-87b0-e7813c95f071@352f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260207
+DESCRIPTION:Originally Posted: 2026-02-07\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62363\n\n<p>We're heading out of campus in five minutes. Show up or forever hold your silence.&nbsp\;</p>\n<p>-R</p>...
+SUMMARY:📢 Last call  (COM 204-S1)
+UID:c36f530d-eeb5-494b-b44a-a8bd84a10444@c36f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62261\n\n<p>Hello everyone\,&nbsp\;<br><br>We will be visiting the State Bank Museum this Saturday\, the 7th of February\, for a class field trip. You are all required to be on campus by 11 AM so that we can colle...
+SUMMARY:📢 FIELD TRIP!!!! (COM 204-S1)
+UID:cc427890-4385-4639-85dd-b22f068d77ea@cc42.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Originally Posted: 2026-02-10\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62450\n\n<p>Got delayed in a faculty workshop. Attendance will be around 2<span>:45</span>.</p>\n<p><span style="color: #cf4a00\;">You may want to work on something that will be reviewed after the break:</span><...
+SUMMARY:📢 Activity One (Before Attendance)  (CND 103-D2)
+UID:f96a7766-1b95-415d-8451-8176a437ea93@f96a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Originally Posted: 2026-02-18\nhttps://hulms.instructure.com/courses/4873/discussion_topics/62794\n\n<p>Create this logo using shape builder tool</p>...
+SUMMARY:📢 Shape Builder Tool (CND 103L-T2)
+UID:ae38a13b-caeb-4083-8578-d3c9543d2ac1@ae38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62271\n\n<p>So I have just been informed that you need a guardian signature even if you're over 18. No idea why that's the case but oh well. Please get the signatures and leave the forms on my desk by Friday n...
+SUMMARY:📢 GUYS! GUARDIAN SIGNATURES (COM 204-S1)
+UID:2a588da6-eaae-41d8-aacc-0fcafb22d674@2a58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Originally Posted: 2026-02-06\nhttps://hulms.instructure.com/courses/4915/discussion_topics/62330\n\n<p>Hello everyone\,&nbsp\;<br><br>You have till 1:30 PM to drop your consent forms in my office. After that\, you will have to give them to me directly on Saturday. Do NOT leave them in my office after 1...
+SUMMARY:📢 Consent forms  (COM 204-S1)
+UID:c2cc40e2-4762-4bee-8f04-c96e1fc27329@c2cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/61661
+DTSTART:20260227T105000Z
+SUMMARY:📝 Understanding Climate Change Vulnerability - Karachi (SDP 303-S1\,S2\,S3)
+UID:d2ac317b-48e7-4155-b5f5-ddb777282faa@d2ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/63809
+DTSTART:20260302T185959Z
+SUMMARY:📝 Illustrator Exercise: Postcard Design (CND 103L-T2)
+UID:472cff04-d17b-4971-834b-b30fa04af30a@472c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Originally Posted: 2026-02-11\nhttps://hulms.instructure.com/courses/5052/discussion_topics/62482\n\n<p>Please come prepared for class for the last reading on water policy. To ease the task\, please note the following:</p>\n<p>1. Critically analyze pages 1-10 and pages 32-40</p>\n<p>2. Skim pages 11-19&...
+SUMMARY:📢 Water Policy (SDP 303-S1\,S2\,S3)
+UID:5dd835bf-0eda-4309-92e8-cb7e19fdf56c@5dd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/63404
+DTSTART:20260216T185959Z
+SUMMARY:📝 Through Each Lens (Part A) (CND 103-D2)
+UID:5b5bee63-3956-4584-ac10-18dd396d033a@5b5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/4861/discussion_topics/62697\n\n<p><span style="color: #03893d\;">Please upload the presentation before midnight</span></p>\n<ol style="list-style-type: decimal\;">\n<li><span style="color: #9242b4\;">Remember to <strong>write&nbsp\;the t...
+SUMMARY:📢 Reminder: Submission for Module One (Part A) (CND 103-D2)
+UID:2fee6301-3546-4f6a-bbdb-0c15c2daf385@2fee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/63033
+DTSTART:20260203T185959Z
+SUMMARY:📝 Healing tool and Editing Image (CND 103L-T2)
+UID:bd217d10-510e-473a-96b6-4d128835c774@bd21.org
 END:VEVENT
 END:VCALENDAR
