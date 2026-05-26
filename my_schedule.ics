@@ -2,351 +2,327 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Originally Posted: 2026-04-29\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66038\n\n<p>Hi folks\,</p>\n<p>Thanks to the 6 people who have submitted the course evaluation this week.&nbsp\; I'd like to remind the remaining students to please submit before the forms close.</p>\n<p>For the f...
-SUMMARY:📢 Course Evaluations and Transport Reimbursement (SDP 303-S1\,S2\,S3)
-UID:05813b3c-2f1d-48d8-83c8-a903cb2f1dbd@0581.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Originally Posted: 2026-05-14\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66567\n\n<p><span style="color: #9242b4\;">You may redo any <strong>ONE</strong> of the following assignments by <strong>23:59</strong> on <strong>Saturday\, 16 May</strong>:</span></p>\n<ul>\n<li>Logo</li>\n<li>Po...
-SUMMARY:📢 Info Regarding Redo (CND 103-D2)
-UID:a39803f2-26c8-414d-b72d-f57055362bca@a398.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/64746
-DTSTART:20260426T185959Z
-SUMMARY:📝 Assessment 3 - MPI Construction  (Take-home) (SDP 302-L1)
-UID:01dd58f8-727e-4781-97a8-1b86fa7f7ed8@01dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260513
-DESCRIPTION:Originally Posted: 2026-05-13\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66536\n\n<p>Hi folks\,</p>\n<p>Just FYI: I've posted the grades on PSCS!</p>\n<p>Regards\,</p>\n<p>Aatir</p>...
-SUMMARY:📢 Grades Posted (SDP 303-S1\,S2\,S3)
-UID:878d7114-5c73-4a2b-963f-a662e365e703@878d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-DESCRIPTION:Originally Posted: 2026-05-10\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66411\n\n<p>Hi all\,</p>\n<p>The grades are out for everything and we have spent the last few days making corrections and addressing concerns.&nbsp\; If there are any errors or if there is anything that we've mis...
-SUMMARY:📢 Grades Finalized (SDP 303-S1\,S2\,S3)
-UID:182c9256-1aae-405a-a7da-6873a4e9c532@182c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DESCRIPTION:Originally Posted: 2026-05-03\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66212\n\n<p>Hi folks\,</p>\n<p>Sami sb. has agreed to hear your findings and recommendations.&nbsp\; This will be an extra credit assignment and the meeting with him will be scheduled in the next couple of days.&...
-SUMMARY:📢 Extra Credit (Education Groups) (SDP 303-S1\,S2\,S3)
-UID:8b4c399b-efd7-4aa1-b5cd-58b729e7e1fd@8b4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/65541
-DTSTART:20260425T185959Z
-SUMMARY:📝 Research Topic Proposal & Bibliography (SDP 302-L1)
-UID:de072f58-8380-4c22-b0ab-1696018619ee@de07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/66195
-DTSTART:20260501T185959Z
-SUMMARY:📝 Linear Regression Practice (MCQs) V Imp (SDP 302-L1)
-UID:fd2b0647-6a72-45d3-9ee9-f5dcae2ad965@fd2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Originally Posted: 2026-05-04\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66253\n\n<p><span style="color: #03893d\;"><span style="background-color: #03893d\; color: #ffffff\;">&nbsp\;UPDATE <em>(8 May)</em>&nbsp\;</span> </span></p>\n<p><span style="color: #03893d\;">Although 9 May is no l...
-SUMMARY:📢 Update on Final Submissions (Publication + Montage) (CND 103-D2)
-UID:d61caac0-0970-4803-a2c1-418d1b1eb3c9@d61c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-DESCRIPTION:Originally Posted: 2026-04-28\nhttps://hulms.instructure.com/courses/5052/discussion_topics/65955\n\n<p>Folks\,</p>\n<p>Tonight the components that I have graded will be posted on Canvas.&nbsp\;</p>\n<p>I have scheduled two days for meeting for discussions. The time slots are as follows:&nbsp\;Wednesday: ...
-SUMMARY:📢 PP2 grade posting on canvas\, grade discussions on Wed April 29 + Thurs April 30 (SDP 303-S1\,S2\,S3)
-UID:4dba083f-aa4b-4889-ada3-df3a096e8164@4dba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65844
-DTSTART:20260505T185900Z
-SUMMARY:📝 3-Assign (LANG 201-S1)
-UID:90030c21-a38c-47cf-8974-acf919300811@9003.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65846
-DTSTART:20260505T185900Z
-SUMMARY:📝 1-Q (LANG 201-S1)
-UID:44bb2b95-99e8-4115-8087-e22ee0157b42@44bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/66512
-DTSTART:20260425T185959Z
-SUMMARY:📝 Research Topic Proposal & Bibliography (SDP 302-S2)
-UID:73bd122b-b96a-4760-bc75-f976a2fac3d1@73bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
-DESCRIPTION:Originally Posted: 2026-04-28\nhttps://hulms.instructure.com/courses/4861/discussion_topics/65983\n\n<p>When you are done with the warm-up\, please follow the following steps to sketch out a rough <strong>storyboard.</strong></p>\n<p><em>A storyboard is a sequence of images - like a graphic novel - tha...
-SUMMARY:📢 Today's First Activity (associations storyboard) (CND 103-D2)
-UID:ed2bba9e-1712-4f79-9f1f-74d57bab0361@ed2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260521
-DESCRIPTION:Originally Posted: 2026-05-21\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66695\n\n<p>Hi folks\,</p>\n<p>I am going to be running two Tehqiq projects this summer and have one open spot for each.&nbsp\; If you are interested\, please drop me an email outlining your interest and any relev...
-SUMMARY:📢 Summer Tehqiq - Deadline May 21 (SDP 303-S1\,S2\,S3)
-UID:e33685e2-fbf9-4ae2-9629-10bb906ccae7@e336.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/66226
-DTSTART:20260425T185959Z
-SUMMARY:📝 Poster (Illustrator Part B) (CND 103L-T2)
-UID:2de6fd48-080f-4ef6-add5-b2b571585432@2de6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65847
-DTSTART:20260505T185900Z
-SUMMARY:📝 2-Q (LANG 201-S1)
-UID:a675f573-b124-44b8-a645-1b4292228d65@a675.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/66783
-DTSTART:20260513T185959Z
-SUMMARY:📝 Final Project - Video Assignment (CND 103L-T2)
-UID:0a0381e4-488b-4002-bd8d-50f52ebc5041@0a03.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Originally Posted: 2026-04-25\nhttps://hulms.instructure.com/courses/4861/discussion_topics/65815\n\n<p>Hello everyone\,</p>\n<p><em>Please attend for as little or as long as you can.</em></p>\n<p>The session will run from <span style="color: #c71f23\;"><strong>3:00–5:30 p.m.</strong></span> tomorrow\, <s...
-SUMMARY:📢 Reminder: Make-up Session Tomorrow (CND 103-D2)
-UID:9fe0dc2e-d468-45c9-b187-482f8f7b1b31@9fe0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4915/assignments/65742
-DTSTART:20260427T063000Z
-SUMMARY:📝 Final Project  (COM 204-S1)
-UID:a0a43f7e-aa34-4a52-a85e-53128df6d896@a0a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Originally Posted: 2026-05-01\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66142\n\n<p>Today is is I believe the final day for submission of the student evaluation form. Filling the form is not mandatory\, but is desirable for future reference and upgrades in the course\, and unless a ...
-SUMMARY:📢 JUST A KIND REQUEST:) (SDP 303-S1\,S2\,S3)
-UID:a848e9c2-51ef-4a46-a28f-ca21f2d8f34c@a848.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Originally Posted: 2026-05-17\nhttps://hulms.instructure.com/courses/4915/discussion_topics/66657\n\n<p>By the grace of God and an absurd amount of caffeine\, I have finished grading. You all did really well\, and I'm proud of each one of you! &lt\;3&nbsp\;<br>Please reach out to me in case of any errors...
-SUMMARY:📢 GRADES (COM 204-S1)
-UID:b280d862-7628-4218-a4be-4c9aeb33943b@b280.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/67036
-DTSTART:20260507T053000Z
-SUMMARY:📝 Data Analytics Final Exam 2026 (SDP 302-S2)
-UID:0ad1421a-7c61-45d3-9b87-4aafb6c7c893@0ad1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/66731
-DTSTART:20260430T185900Z
-SUMMARY:📝 MAK CP (SDP 303-S1\,S2\,S3)
-UID:c4069959-57fe-4ffe-8048-270ef96d28ce@c406.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-DESCRIPTION:Originally Posted: 2026-05-07\nhttps://hulms.instructure.com/courses/4907/discussion_topics/66329\n\n<p>Make sure you have a CALCULATOR. No programmable device will be allowed. Wont recommend relying on remaining braincells for maths...</p>...
-SUMMARY:📢 Key reminder final exam (SDP 302-L1)
-UID:516f819a-72fe-4b63-8a20-ec09a15b7fcf@516f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260820
-DESCRIPTION:Originally Posted: 2026-04-30\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66116\n\n<p><span style="color: #9242b4\;"><strong>What would you like a future version of you to remember about who you are today? Who and what hope to continue being and doing? </strong><em>(15 min)</em></spa...
-SUMMARY:📢 Today's First Activity (Letter to Future Self) (CND 103-D2)
-UID:45e54058-18f7-4d91-931e-10c0a0cae45c@45e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65848
-DTSTART:20260505T185900Z
-SUMMARY:📝 Final Exam (LANG 201-S1)
-UID:19613828-d9c7-4c6d-83f7-93838baef0ad@1961.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/65820
-DTSTART:20260505T050000Z
-SUMMARY:📝 Publication (Editorial Design) (CND 103-D2)
-UID:0b179707-83fa-49c6-a5e8-260e8c4887ae@0b17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260521
-DESCRIPTION:Originally Posted: 2026-05-21\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66697\n\n<p>If you have anything to say or ask\, please comment <span style="text-decoration: underline\;">here</span>. The rosters on PSCS will be locked in the morning.</p>\n<p>These grades are not a 100% refle...
-SUMMARY:📢 Update: Grades Successfully Entered  (CND 103-D2)
-UID:bf9d6519-4982-44fe-a7f3-8d00813c804f@bf9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65849
-DTSTART:20260505T185900Z
-SUMMARY:📝 CP (LANG 201-S1)
-UID:a2a7a1d6-7a1c-4904-a0b8-b1d6e6353000@a2a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/66420
-DTSTART:20260426T185959Z
-SUMMARY:📝 03 Quiz_MPI (SDP 302-S2)
-UID:8172a665-15f3-4d48-b1b4-31341e8c4577@8172.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/66176
-DTSTART:20260501T185959Z
-SUMMARY:📝 Final Exam 2025 (Final Practice) (SDP 302-L1)
-UID:ec3b02ce-4de4-4f37-afe1-bc083838221c@ec3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260514
-DESCRIPTION:Originally Posted: 2026-05-14\nhttps://hulms.instructure.com/courses/4873/discussion_topics/66563\n\n<p>Dear Students\,</p>\n<p>All students who have not yet submitted their assignments must do so by <strong>today\, 5:00 PM</strong>. Please also make sure your <strong>final video assignment</strong> is ...
-SUMMARY:📢 Important! (CND 103L-T2)
-UID:9d29da6e-10b9-465c-9d30-37b797b92658@9d29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/66844
-DTSTART:20260510T185959Z
-SUMMARY:📝 Final Paper (SDP 302-S2)
-UID:59f869fa-81fc-441a-b7a9-40bc63050c4c@59f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-DESCRIPTION:Originally Posted: 2026-04-29\nhttps://hulms.instructure.com/courses/4873/discussion_topics/66046\n\n<p>Dear students\, due to some emergency i will be getting&nbsp\; 15 minutes late to the class.</p>...
-SUMMARY:📢 Stay in class (CND 103L-T2)
-UID:6703e902-690d-4885-abd4-990bb87bb409@6703.org
+DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/66222
+DTSTART:20260429T185959Z
+SUMMARY:📝 Premiere Pro - Short video (only for bonus marks - if you have created a video) (CND 103L-T2)
+UID:4784d61b-5c49-44b7-9218-cf3df739f46a@4784.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260427
 DESCRIPTION:Originally Posted: 2026-04-27\nhttps://hulms.instructure.com/courses/5052/discussion_topics/65915\n\n<p>Hi folks\,</p>\n<p>Sorry for the late notice\; we are all meeting in Tariq Rafi Hall today.</p>\n<p>Regards\,</p>\n<p>Aatir&nbsp\;</p>...
 SUMMARY:📢 Class Session Today: Tariq Rafi Hall (SDP 303-S1\,S2\,S3)
-UID:6b775a83-2cfc-4c1b-ac4d-591c9df22483@6b77.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Originally Posted: 2026-05-08\nhttps://hulms.instructure.com/courses/4915/discussion_topics/66371\n\n<p>I've posted an extra reflection prompt for anyone who feels like they might need to makeup for a missing reflection or could use a better score. Submit by Monday.&nbsp\;</p>\n<p>&nbsp\;</p>...
-SUMMARY:📢 Extra reflection  (COM 204-S1)
-UID:062a8a70-afed-49d6-aa76-2c0a7832b937@062a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/66177
-DTSTART:20260501T185959Z
-SUMMARY:📝 Logistic Regression Practice (Very Important) (SDP 302-L1)
-UID:40903351-2304-4899-b26d-68fd907f59ee@4090.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Originally Posted: 2026-04-26\nhttps://hulms.instructure.com/courses/4915/discussion_topics/65864\n\n<p>Hello everyone\,&nbsp\;</p>\n<p>Please make sure you're all on time tomorrow. We'll start at 1130. Treat this like an exam and make sure you're all on campus by 1115. Remember\, you'll have five minute...
-SUMMARY:📢 Be on time  (COM 204-S1)
-UID:404262c0-9465-46c2-a06f-a7cac2c35b85@4042.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/63317
-DTSTART:20260430T185959Z
-SUMMARY:📝 Attendance and Participation (SDP 302-S2)
-UID:f481fccf-a889-4930-ab21-f54a6da11ab5@f481.org
+UID:2fd1370b-a38f-473a-abc5-e5ff8607b01c@2fd1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/66256
 DTSTART:20260429T185959Z
 SUMMARY:📝 Policy Brief (SDP 303-S1\,S2\,S3)
-UID:b2e6ad81-cc8d-4a0a-b815-92ffdc850faa@b2e6.org
+UID:06dd843d-42ae-45d5-a53b-fa072d86bd50@06dd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/67143
-DTSTART:20260430T185900Z
-SUMMARY:📝 Professionalism (CND 103-D2)
-UID:984ef624-02bc-476c-93ce-d57ca6aa6ef4@984e.org
+DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/66844
+DTSTART:20260510T185959Z
+SUMMARY:📝 Final Paper (SDP 302-S2)
+UID:c86177ae-720f-4d53-a2ac-33753d59bafd@c861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/63317
+DTSTART:20260430T185959Z
+SUMMARY:📝 Attendance and Participation (SDP 302-S2)
+UID:457c8f1b-f05a-45e4-b80d-6ed3960d8e8d@457c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Originally Posted: 2026-05-01\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66142\n\n<p>Today is is I believe the final day for submission of the student evaluation form. Filling the form is not mandatory\, but is desirable for future reference and upgrades in the course\, and unless a ...
+SUMMARY:📢 JUST A KIND REQUEST:) (SDP 303-S1\,S2\,S3)
+UID:75122a1a-c16e-4d69-85e0-b9693bacaeed@7512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/66420
+DTSTART:20260426T185959Z
+SUMMARY:📝 03 Quiz_MPI (SDP 302-S2)
+UID:f5314c0c-6c10-4ac0-9326-ccfe358c12f7@f531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65844
+DTSTART:20260505T185900Z
+SUMMARY:📝 3-Assign (LANG 201-S1)
+UID:a9bcf79d-3362-4954-b87e-7854c8b6a209@a9bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/67142
 DTSTART:20260430T185900Z
 SUMMARY:📝 Class Participation (CND 103-D2)
-UID:333ddb0c-119e-4025-a4ad-2699387e2fdf@333d.org
+UID:cda4af94-d76e-4d4e-8005-a407b90ac45c@cda4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/66730
-DTSTART:20260430T185900Z
-SUMMARY:📝 FA CP (SDP 303-S1\,S2\,S3)
-UID:f6243822-a773-4341-b939-81df4632a08c@f624.org
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Originally Posted: 2026-04-30\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66116\n\n<p><span style="color: #9242b4\;"><strong>What would you like a future version of you to remember about who you are today? Who and what hope to continue being and doing? </strong><em>(15 min)</em></spa...
+SUMMARY:📢 Today's First Activity (Letter to Future Self) (CND 103-D2)
+UID:f0f6ae38-e5ef-4e6f-b94b-bdc2c726e8ec@f0f6.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DESCRIPTION:Originally Posted: 2026-04-28\nhttps://hulms.instructure.com/courses/5016/discussion_topics/66005\n\n<p>Dear students\,&nbsp\;<br><span data-olk-copy-source="MessageBody">The exam has been rescheduled to May 9\, 2026\, from 12:30 PM to 02:30 PM\, in C-200.</span><br>Here are the topics you need to prepare...
-SUMMARY:📢 Topics for the Final Exam (LANG 201-S1)
-UID:cae1a967-01c6-4bb1-8fd2-4596d4cec9eb@cae1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/66533
-DTSTART:20260512T185959Z
-SUMMARY:📝 Video (Montage) (CND 103-D2)
-UID:1f3c1845-81aa-4969-8205-18f96862c446@1f3c.org
+DTSTART;VALUE=DATE:20260514
+DESCRIPTION:Originally Posted: 2026-05-14\nhttps://hulms.instructure.com/courses/4873/discussion_topics/66563\n\n<p>Dear Students\,</p>\n<p>All students who have not yet submitted their assignments must do so by <strong>today\, 5:00 PM</strong>. Please also make sure your <strong>final video assignment</strong> is ...
+SUMMARY:📢 Important! (CND 103L-T2)
+UID:425462f9-8a35-45eb-a117-6f8e00b0b40c@4254.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260507
 DESCRIPTION:Originally Posted: 2026-05-07\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66331\n\n<p>Hi folks\,</p>\n<p>We have posted all of your grades\, with the exception of CP and Climate Quiz.&nbsp\; These will be posted shortly as well.&nbsp\;</p>\n<p>I will be available today (May 7)\, tomorrow (...
 SUMMARY:📢 Grade Discussion (SDP 303-S1\,S2\,S3)
-UID:651fff12-af20-49a8-82d6-6a4faee71c3c@651f.org
+UID:33644e1d-076c-4be0-ad14-446139e31766@3364.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65843
-DTSTART:20260505T185900Z
-SUMMARY:📝 1-Assign (LANG 201-S1)
-UID:6ffafb8f-26ce-43df-9e3a-c0d9f29914b6@6ffa.org
+DTSTART;VALUE=DATE:20260429
+DESCRIPTION:Originally Posted: 2026-04-28\nhttps://hulms.instructure.com/courses/5052/discussion_topics/65955\n\n<p>Folks\,</p>\n<p>Tonight the components that I have graded will be posted on Canvas.&nbsp\;</p>\n<p>I have scheduled two days for meeting for discussions. The time slots are as follows:&nbsp\;Wednesday: ...
+SUMMARY:📢 PP2 grade posting on canvas\, grade discussions on Wed April 29 + Thurs April 30 (SDP 303-S1\,S2\,S3)
+UID:b7ba1034-cd41-4738-91fd-4fa0a0bc721d@b7ba.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4915/assignments/66829
-DTSTART:20260511T185900Z
-SUMMARY:📝 06 Reflection (Overview) (COM 204-S1)
-UID:570f99fc-3c4b-4f42-8ced-2c408c45ecb9@570f.org
+DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/67143
+DTSTART:20260430T185900Z
+SUMMARY:📝 Professionalism (CND 103-D2)
+UID:e6f87180-059d-4764-a4e2-08db74cbd53a@e6f8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/66228
-DTSTART:20260508T185959Z
-SUMMARY:📝 InDesign (Publication) (CND 103L-T2)
-UID:f3cb2bb5-c733-4dd1-a497-02e27245018a@f3cb.org
+DTSTART;VALUE=DATE:20260504
+DESCRIPTION:Originally Posted: 2026-05-03\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66212\n\n<p>Hi folks\,</p>\n<p>Sami sb. has agreed to hear your findings and recommendations.&nbsp\; This will be an extra credit assignment and the meeting with him will be scheduled in the next couple of days.&...
+SUMMARY:📢 Extra Credit (Education Groups) (SDP 303-S1\,S2\,S3)
+UID:379fe6ab-950d-46c9-bc87-896ed56041f7@379f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/66175
+DESCRIPTION:https://hulms.instructure.com/courses/4915/assignments/65742
+DTSTART:20260427T063000Z
+SUMMARY:📝 Final Project  (COM 204-S1)
+UID:cc5ec66e-d58f-4912-9191-3a8210bc94b0@cc5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/66177
 DTSTART:20260501T185959Z
-SUMMARY:📝 Week 1-3 practice (SDP 302-L1)
-UID:850c9550-da63-431e-b323-fdcf3cdc5204@850c.org
+SUMMARY:📝 Logistic Regression Practice (Very Important) (SDP 302-L1)
+UID:cfdce5d1-850c-423b-9be6-e5dd942703a3@cfdc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/66640
-DTSTART:20260429T020000Z
-SUMMARY:📝 RM CP (SDP 303-S1\,S2\,S3)
-UID:455bea74-161c-4774-aa23-4b9b763a0dc4@455b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260519
-DESCRIPTION:Originally Posted: 2026-05-19\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66685\n\n<div class="R1UVb">\n<div class="R1UVb">\n<p class="qF8_5" style="text-align: left\;">Hi there. You're probably anxiously awaiting grades so here's an update on what's been happening.</p>\n<p class="qF8_5...
-SUMMARY:📢 Update: LMS Glitches (CND 103-D2)
-UID:ae2a07f8-af62-45d0-91fe-392f199d75af@ae2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
-DESCRIPTION:Originally Posted: 2026-04-28\nhttps://hulms.instructure.com/courses/4861/discussion_topics/65977\n\n<p>For today's warm-up...</p>\n<p>1. Please do a few rounds of<span>&nbsp\;</span><strong>word association</strong><span> with each other </span>until you feel like your responses are speedy and your mi...
-SUMMARY:📢 Today's Warm-up (CND 103-D2)
-UID:6ccc9819-80b0-4402-af9e-bb375ca1f82c@6ccc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/66222
-DTSTART:20260429T185959Z
-SUMMARY:📝 Premiere Pro - Short video (only for bonus marks - if you have created a video) (CND 103L-T2)
-UID:8d36dc67-3952-4968-b866-4f22cd6beef0@8d36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65845
+DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65849
 DTSTART:20260505T185900Z
-SUMMARY:📝 2-Assign (LANG 201-S1)
-UID:0a5678ff-52ff-4f1e-96ea-312607ed1d95@0a56.org
+SUMMARY:📝 CP (LANG 201-S1)
+UID:f5f8215a-7cbf-4cb2-92e0-ae7583b75647@f5f8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Originally Posted: 2026-05-11\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66471\n\n<p><span style="background-color: #9242b4\; color: #ffffff\;"><strong>&nbsp\;Tutorials on 12\, 14\, 15 May&nbsp\;</strong></span></p>\n<p>Although I will be on campus (i.e. meeting in-person)\, if you would l...
-SUMMARY:📢 Video Montage Critique Sign-up Sheet (CND 103-D2)
-UID:040d58d5-30d3-44d7-8482-6dc4a208bf64@040d.org
+DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/66731
+DTSTART:20260430T185900Z
+SUMMARY:📝 MAK CP (SDP 303-S1\,S2\,S3)
+UID:c311d44c-a6c6-4768-83fa-639308f8aab9@c311.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DESCRIPTION:Originally Posted: 2026-04-29\nhttps://hulms.instructure.com/courses/4873/discussion_topics/66046\n\n<p>Dear students\, due to some emergency i will be getting&nbsp\; 15 minutes late to the class.</p>...
+SUMMARY:📢 Stay in class (CND 103L-T2)
+UID:cb961e46-7bff-4cfd-abfd-244779bd002a@cb96.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/66651
 DTSTART:20260503T185959Z
 SUMMARY:📝 04 Quiz_Practice Activities (SDP 302-S2)
-UID:d4f37443-69c3-4efc-a102-09590e03df08@d4f3.org
+UID:c5187eae-172c-456b-84d7-468fd8884ea7@c518.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Originally Posted: 2026-04-29\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66038\n\n<p>Hi folks\,</p>\n<p>Thanks to the 6 people who have submitted the course evaluation this week.&nbsp\; I'd like to remind the remaining students to please submit before the forms close.</p>\n<p>For the f...
+SUMMARY:📢 Course Evaluations and Transport Reimbursement (SDP 303-S1\,S2\,S3)
+UID:37a8c66c-56cb-4bf5-aa8f-e024bbb10f14@37a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/66195
+DTSTART:20260501T185959Z
+SUMMARY:📝 Linear Regression Practice (MCQs) V Imp (SDP 302-L1)
+UID:3d8701c6-5893-4b17-bf12-787d78d2c19a@3d87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/65820
+DTSTART:20260505T050000Z
+SUMMARY:📝 Publication (Editorial Design) (CND 103-D2)
+UID:5244dd5e-64bf-4bd5-aa5b-cf2a87427fbe@5244.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+DESCRIPTION:Originally Posted: 2026-04-28\nhttps://hulms.instructure.com/courses/4861/discussion_topics/65977\n\n<p>For today's warm-up...</p>\n<p>1. Please do a few rounds of<span>&nbsp\;</span><strong>word association</strong><span> with each other </span>until you feel like your responses are speedy and your mi...
+SUMMARY:📢 Today's Warm-up (CND 103-D2)
+UID:9b098543-9301-41a4-b777-df05c3725921@9b09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65843
+DTSTART:20260505T185900Z
+SUMMARY:📝 1-Assign (LANG 201-S1)
+UID:39479f74-0a34-41d2-ad22-717faee00add@3947.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:Originally Posted: 2026-05-17\nhttps://hulms.instructure.com/courses/4915/discussion_topics/66657\n\n<p>By the grace of God and an absurd amount of caffeine\, I have finished grading. You all did really well\, and I'm proud of each one of you! &lt\;3&nbsp\;<br>Please reach out to me in case of any errors...
+SUMMARY:📢 GRADES (COM 204-S1)
+UID:894121cd-26fb-4fc8-94b0-0ce4434485c2@8941.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+DESCRIPTION:Originally Posted: 2026-05-21\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66697\n\n<p>If you have anything to say or ask\, please comment <span style="text-decoration: underline\;">here</span>. The rosters on PSCS will be locked in the morning.</p>\n<p>These grades are not a 100% refle...
+SUMMARY:📢 Update: Grades Successfully Entered  (CND 103-D2)
+UID:b673316a-bcc7-4882-b568-c069067c22ab@b673.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+DESCRIPTION:Originally Posted: 2026-05-10\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66411\n\n<p>Hi all\,</p>\n<p>The grades are out for everything and we have spent the last few days making corrections and addressing concerns.&nbsp\; If there are any errors or if there is anything that we've mis...
+SUMMARY:📢 Grades Finalized (SDP 303-S1\,S2\,S3)
+UID:64c9c986-5bc4-4886-9549-7a6f8abbc90d@64c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260507
+DESCRIPTION:Originally Posted: 2026-05-07\nhttps://hulms.instructure.com/courses/4907/discussion_topics/66329\n\n<p>Make sure you have a CALCULATOR. No programmable device will be allowed. Wont recommend relying on remaining braincells for maths...</p>...
+SUMMARY:📢 Key reminder final exam (SDP 302-L1)
+UID:3402c2af-715f-47fd-a674-49a58a92202c@3402.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/66175
+DTSTART:20260501T185959Z
+SUMMARY:📝 Week 1-3 practice (SDP 302-L1)
+UID:abca139f-b2c4-4335-ac23-33bd651535d8@abca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Originally Posted: 2026-05-14\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66567\n\n<p><span style="color: #9242b4\;">You may redo any <strong>ONE</strong> of the following assignments by <strong>23:59</strong> on <strong>Saturday\, 16 May</strong>:</span></p>\n<ul>\n<li>Logo</li>\n<li>Po...
+SUMMARY:📢 Info Regarding Redo (CND 103-D2)
+UID:99d23524-a9f5-4055-b550-df7c32eeff44@99d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4915/assignments/66829
+DTSTART:20260511T185900Z
+SUMMARY:📝 06 Reflection (Overview) (COM 204-S1)
+UID:c0ad8cc0-b10f-4ba1-8365-e8745c2759f0@c0ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Originally Posted: 2026-05-11\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66471\n\n<p><span style="background-color: #9242b4\; color: #ffffff\;"><strong>&nbsp\;Tutorials on 12\, 14\, 15 May&nbsp\;</strong></span></p>\n<p>Although I will be on campus (i.e. meeting in-person)\, if you would l...
+SUMMARY:📢 Video Montage Critique Sign-up Sheet (CND 103-D2)
+UID:a203b0d2-e527-4aa9-af88-257ff3afa6f5@a203.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/66228
+DTSTART:20260508T185959Z
+SUMMARY:📝 InDesign (Publication) (CND 103L-T2)
+UID:0012fe39-099b-4bd8-b513-31aff2f0750d@0012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/66730
+DTSTART:20260430T185900Z
+SUMMARY:📝 FA CP (SDP 303-S1\,S2\,S3)
+UID:45390517-6270-4103-be91-b5fe3446c8ef@4539.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/64746
+DTSTART:20260426T185959Z
+SUMMARY:📝 Assessment 3 - MPI Construction  (Take-home) (SDP 302-L1)
+UID:b5b8865f-c8a8-47c4-9082-ab82254fc4c8@b5b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+DESCRIPTION:Originally Posted: 2026-05-19\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66685\n\n<div class="R1UVb">\n<div class="R1UVb">\n<p class="qF8_5" style="text-align: left\;">Hi there. You're probably anxiously awaiting grades so here's an update on what's been happening.</p>\n<p class="qF8_5...
+SUMMARY:📢 Update: LMS Glitches (CND 103-D2)
+UID:6380e10f-4f9b-4d36-a2aa-260ad01ed4eb@6380.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Originally Posted: 2026-04-26\nhttps://hulms.instructure.com/courses/4915/discussion_topics/65864\n\n<p>Hello everyone\,&nbsp\;</p>\n<p>Please make sure you're all on time tomorrow. We'll start at 1130. Treat this like an exam and make sure you're all on campus by 1115. Remember\, you'll have five minute...
+SUMMARY:📢 Be on time  (COM 204-S1)
+UID:7c2d7415-cbbe-4293-a914-5fff07d9eb55@7c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+DESCRIPTION:Originally Posted: 2026-04-28\nhttps://hulms.instructure.com/courses/4861/discussion_topics/65983\n\n<p>When you are done with the warm-up\, please follow the following steps to sketch out a rough <strong>storyboard.</strong></p>\n<p><em>A storyboard is a sequence of images - like a graphic novel - tha...
+SUMMARY:📢 Today's First Activity (associations storyboard) (CND 103-D2)
+UID:686a6ffa-37ea-4fca-964a-ea91f6b89d64@686a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+DESCRIPTION:Originally Posted: 2026-05-13\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66536\n\n<p>Hi folks\,</p>\n<p>Just FYI: I've posted the grades on PSCS!</p>\n<p>Regards\,</p>\n<p>Aatir</p>...
+SUMMARY:📢 Grades Posted (SDP 303-S1\,S2\,S3)
+UID:95041ffe-3c7a-4482-8b8a-f37b44f4f177@9504.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65846
+DTSTART:20260505T185900Z
+SUMMARY:📝 1-Q (LANG 201-S1)
+UID:29e31cb0-1f67-48fa-8c0b-5c3bca5813e0@29e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65847
+DTSTART:20260505T185900Z
+SUMMARY:📝 2-Q (LANG 201-S1)
+UID:ab9596cf-adf4-4948-884a-a0c78f5e6c6e@ab95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4907/assignments/66176
+DTSTART:20260501T185959Z
+SUMMARY:📝 Final Exam 2025 (Final Practice) (SDP 302-L1)
+UID:b3e4253f-06f9-44f7-b599-8d3dedc7ed49@b3e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65845
+DTSTART:20260505T185900Z
+SUMMARY:📝 2-Assign (LANG 201-S1)
+UID:9319a460-0e39-44f6-9a9b-20bc54645828@9319.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Originally Posted: 2026-05-04\nhttps://hulms.instructure.com/courses/4861/discussion_topics/66253\n\n<p><span style="color: #03893d\;"><span style="background-color: #03893d\; color: #ffffff\;">&nbsp\;UPDATE <em>(8 May)</em>&nbsp\;</span> </span></p>\n<p><span style="color: #03893d\;">Although 9 May is no l...
+SUMMARY:📢 Update on Final Submissions (Publication + Montage) (CND 103-D2)
+UID:b66a236d-992a-4524-a24e-4355212ef237@b66a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+DESCRIPTION:Originally Posted: 2026-05-21\nhttps://hulms.instructure.com/courses/5052/discussion_topics/66695\n\n<p>Hi folks\,</p>\n<p>I am going to be running two Tehqiq projects this summer and have one open spot for each.&nbsp\; If you are interested\, please drop me an email outlining your interest and any relev...
+SUMMARY:📢 Summer Tehqiq - Deadline May 21 (SDP 303-S1\,S2\,S3)
+UID:cbaffacb-76d5-4fcb-b7e4-b017982ed6aa@cbaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5052/assignments/66640
+DTSTART:20260429T020000Z
+SUMMARY:📝 RM CP (SDP 303-S1\,S2\,S3)
+UID:45bb5330-821d-407c-b1a7-9cc628bbc56c@45bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5123/assignments/67036
+DTSTART:20260507T053000Z
+SUMMARY:📝 Data Analytics Final Exam 2026 (SDP 302-S2)
+UID:0ac640be-2a08-424e-acfe-398edc9fa7f6@0ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5016/assignments/65848
+DTSTART:20260505T185900Z
+SUMMARY:📝 Final Exam (LANG 201-S1)
+UID:ab30aec0-72a1-443c-a176-2353c4a8e26f@ab30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4873/assignments/66783
+DTSTART:20260513T185959Z
+SUMMARY:📝 Final Project - Video Assignment (CND 103L-T2)
+UID:69486fb9-78fc-4114-bc0c-f0379ab97d46@6948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4861/assignments/66533
+DTSTART:20260512T185959Z
+SUMMARY:📝 Video (Montage) (CND 103-D2)
+UID:f8587623-675a-4087-b581-698a50ffdbc3@f858.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Originally Posted: 2026-05-08\nhttps://hulms.instructure.com/courses/4915/discussion_topics/66371\n\n<p>I've posted an extra reflection prompt for anyone who feels like they might need to makeup for a missing reflection or could use a better score. Submit by Monday.&nbsp\;</p>\n<p>&nbsp\;</p>...
+SUMMARY:📢 Extra reflection  (COM 204-S1)
+UID:3a34e14a-d011-4559-9be9-4dcd7c40a621@3a34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Originally Posted: 2026-04-28\nhttps://hulms.instructure.com/courses/5016/discussion_topics/66005\n\n<p>Dear students\,&nbsp\;<br><span data-olk-copy-source="MessageBody">The exam has been rescheduled to May 9\, 2026\, from 12:30 PM to 02:30 PM\, in C-200.</span><br>Here are the topics you need to prepare...
+SUMMARY:📢 Topics for the Final Exam (LANG 201-S1)
+UID:088b4e33-e070-4def-a0a2-12bcb1ef20a7@088b.org
 END:VEVENT
 END:VCALENDAR
