@@ -1,4 +1,46 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260520
+DESCRIPTION:Originally Posted: 2026-05-20\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66694\n\n<p>Dear Students\,</p>\n<p>The contract document has been attached as a PDF file. Kindly download the file and carefully fill in your name and signature.</p>\n<p><a class="instructure_file_link instructu...
+SUMMARY:📢 STRP 2026 Contract & Instructions (Summer Tehqiq 2026)
+UID:db004880-1720-4293-ac45-0cbed0e3fbfb@db00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5126/assignments/67160
+DTSTART:20260609T090000Z
+SUMMARY:📝 STRP Contract Submission (Summer Tehqiq 2026)
+UID:54f50adf-745e-4092-83d6-cf22b774fac2@54f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DESCRIPTION:Originally Posted: 2026-05-25\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66699\n\n<p>Dear All\,</p>\n<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">If you have not yet submitted your signed contract\, please do so no later than <strong>4:00 PM</strong...
+SUMMARY:📢 Contract Submission Deadline (Summer Tehqiq 2026)
+UID:1d9dd1ab-40cb-4007-b950-22631d07dbed@1d9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Originally Posted: 2026-06-03\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66703\n\n<p>Dear Students\,</p>\n<p>I hope you are all doing well.</p>\n<p>We are pleased to invite you to the Summer Tehqiq Research Program - Student Onboarding &amp\; Kickoff Session\, scheduled as follows:</p>\n...
+SUMMARY:📢 Onboarding Session (Summer Tehqiq 2026)
+UID:2706e8f1-2bc2-41dc-bc68-a72aba3fe0d6@2706.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260602
+DESCRIPTION:Originally Posted: 2026-06-01\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66701\n\n<p><span style="color: #000000\;">Dear Students\,</span></p>\n<p><span style="color: #000000\;">This is a reminder for those who have not yet submitted their contracts\, please do so by Tuesday\, June 2\, 20...
+SUMMARY:📢 Contract Submission Deadline Extension (Summer Tehqiq 2026)
+UID:320c8880-db1e-447d-b18d-3ec64f3082ac@320c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:Originally Posted: 2026-06-03\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66702\n\n<div data-olk-copy-source="MailCompose">Dear Muhaqqiq\,</div>\n<div>The Office of Research would like to bring to your attention a valuable professional development opportunity. <a id="OWAd78a7ed5-5d41-...
+SUMMARY:📢 Free Online Professional Development Course on Research (Summer Tehqiq 2026)
+UID:a2e7163e-a053-43bf-817d-8a0db2c4ad31@a2e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260608
+DESCRIPTION:Originally Posted: 2026-06-08\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66706\n\n<p>Hello Students\,</p>\n<p>Please find attached today's presentation. Feel free to reach out if there are any remaining unanswered questions.</p>\n<p>Regards\,<br>OoR.</p>...
+SUMMARY:📢 Students' Kick Off Session (Summer Tehqiq 2026)
+UID:14fb724f-36be-4cf6-9795-db61fbf5b99d@14fb.org
+END:VEVENT
 END:VCALENDAR
