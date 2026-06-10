@@ -2,45 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:Originally Posted: 2026-05-20\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66694\n\n<p>Dear Students\,</p>\n<p>The contract document has been attached as a PDF file. Kindly download the file and carefully fill in your name and signature.</p>\n<p><a class="instructure_file_link instructu...
-SUMMARY:📢 STRP 2026 Contract & Instructions (Summer Tehqiq 2026)
-UID:db004880-1720-4293-ac45-0cbed0e3fbfb@db00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5126/assignments/67160
-DTSTART:20260609T090000Z
-SUMMARY:📝 STRP Contract Submission (Summer Tehqiq 2026)
-UID:54f50adf-745e-4092-83d6-cf22b774fac2@54f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-DESCRIPTION:Originally Posted: 2026-05-25\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66699\n\n<p>Dear All\,</p>\n<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">If you have not yet submitted your signed contract\, please do so no later than <strong>4:00 PM</strong...
-SUMMARY:📢 Contract Submission Deadline (Summer Tehqiq 2026)
-UID:1d9dd1ab-40cb-4007-b950-22631d07dbed@1d9d.org
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:Originally Posted: 2026-06-03\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66702\n\n<div data-olk-copy-source="MailCompose">Dear Muhaqqiq\,</div>\n<div>The Office of Research would like to bring to your attention a valuable professional development opportunity. <a id="OWAd78a7ed5-5d41-...
+SUMMARY:📢 Free Online Professional Development Course on Research (Summer Tehqiq 2026)
+UID:51f18b19-9dac-4098-bce2-58567a9fafe9@51f1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DESCRIPTION:Originally Posted: 2026-06-03\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66703\n\n<p>Dear Students\,</p>\n<p>I hope you are all doing well.</p>\n<p>We are pleased to invite you to the Summer Tehqiq Research Program - Student Onboarding &amp\; Kickoff Session\, scheduled as follows:</p>\n...
 SUMMARY:📢 Onboarding Session (Summer Tehqiq 2026)
-UID:2706e8f1-2bc2-41dc-bc68-a72aba3fe0d6@2706.org
+UID:397f22d8-4186-458d-9399-aceb9936fa39@397f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260602
-DESCRIPTION:Originally Posted: 2026-06-01\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66701\n\n<p><span style="color: #000000\;">Dear Students\,</span></p>\n<p><span style="color: #000000\;">This is a reminder for those who have not yet submitted their contracts\, please do so by Tuesday\, June 2\, 20...
-SUMMARY:📢 Contract Submission Deadline Extension (Summer Tehqiq 2026)
-UID:320c8880-db1e-447d-b18d-3ec64f3082ac@320c.org
+DTSTART;VALUE=DATE:20260520
+DESCRIPTION:Originally Posted: 2026-05-20\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66694\n\n<p>Dear Students\,</p>\n<p>The contract document has been attached as a PDF file. Kindly download the file and carefully fill in your name and signature.</p>\n<p><a class="instructure_file_link instructu...
+SUMMARY:📢 STRP 2026 Contract & Instructions (Summer Tehqiq 2026)
+UID:ab48eef1-0ef3-41fe-940a-3f21e56fc556@ab48.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:Originally Posted: 2026-06-03\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66702\n\n<div data-olk-copy-source="MailCompose">Dear Muhaqqiq\,</div>\n<div>The Office of Research would like to bring to your attention a valuable professional development opportunity. <a id="OWAd78a7ed5-5d41-...
-SUMMARY:📢 Free Online Professional Development Course on Research (Summer Tehqiq 2026)
-UID:a2e7163e-a053-43bf-817d-8a0db2c4ad31@a2e7.org
+DESCRIPTION:https://hulms.instructure.com/courses/5126/assignments/67160
+DTSTART:20260609T090000Z
+SUMMARY:📝 STRP Contract Submission (Summer Tehqiq 2026)
+UID:e259ad6e-3925-4250-8818-86b7b235686f@e259.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Originally Posted: 2026-06-09\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66738\n\n<p>Dear Muhaqqiq\,</p>\n<p>Please take note of the following important updates regarding the Summer Tehqiq Research Program (STRP):</p>\n<p><span style="color: #000000\;"><strong>1.&nbsp\; Weekly Hour Upda...
+SUMMARY:📢 STRP Updates (Summer Tehqiq 2026)
+UID:ee998f00-9a0b-4c72-810b-390ba4e03336@ee99.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260608
 DESCRIPTION:Originally Posted: 2026-06-08\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66706\n\n<p>Hello Students\,</p>\n<p>Please find attached today's presentation. Feel free to reach out if there are any remaining unanswered questions.</p>\n<p>Regards\,<br>OoR.</p>...
 SUMMARY:📢 Students' Kick Off Session (Summer Tehqiq 2026)
-UID:14fb724f-36be-4cf6-9795-db61fbf5b99d@14fb.org
+UID:0c27a630-f677-477f-bd05-b978903a20fc@0c27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5126/assignments/67172
+DTSTART:20260609T130000Z
+SUMMARY:📝 CITI Training Certificate Submission (Summer Tehqiq 2026)
+UID:36c52cee-86bf-4816-a145-c3aab7394a50@36c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Originally Posted: 2026-06-09\nhttps://hulms.instructure.com/courses/5126/discussion_topics/66737\n\n<p>Dear Students\,</p>\n<p>If you have previously completed the CITI Training modules specified in our last communication and/or hold a valid certificate\, please upload that.</p>\n<p>If you have not yet ...
+SUMMARY:📢 CITI Training (Summer Tehqiq 2026)
+UID:77d6abe4-b97d-42eb-b1ef-a6ecdadae1d7@77d6.org
 END:VEVENT
 END:VCALENDAR
